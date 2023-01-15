@@ -154,7 +154,7 @@ The official bot for [Prime Affliction](https://www.discord.gg/primeaffliction) 
   </a>
   
   
-  ### roll
+  ### Roll
   - 🎲 Roll a die that has a range of 1 and [sides]
   `Friends+`
   ```bash
@@ -162,7 +162,7 @@ The official bot for [Prime Affliction](https://www.discord.gg/primeaffliction) 
   ```
   
   
-  ### coinflip
+  ### Coin Flip
   - 🟡 Flip a coin (Heads, Tails)
   `Friends+`
   ```bash
