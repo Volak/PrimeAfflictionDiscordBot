@@ -35,6 +35,9 @@ The official bot for [Prime Affliction](https://www.discord.gg/primeaffliction) 
 * [Editnickname](#editnickname)
 * [Purge](#purge)
 * [Say](#say)
+* [TimeStamp Generator](#timestamp)
+* [Dice Roll](#roll)
+* [Coin Flip](#coinflip)
 * [Ping](#ping)
 
 ## Commands
@@ -98,27 +101,27 @@ The official bot for [Prime Affliction](https://www.discord.gg/primeaffliction) 
   ```bash
   /serverinfo
   ```
-
+  
   <a href="https://cdn.discordapp.com/attachments/1028380505923670096/1052404923733651536/image.png" >
     <img src="https://cdn.discordapp.com/attachments/1028380505923670096/1052404923733651536/image.png">
   </a>
 
-### Checkup
+### Whois
   - 🔍 Get various information on a member of the discord server
   `Member+ Use Only`
   ```bash
-  /checkup {@member}
+  /whois {@member}
   ```
    
   <a href="https://cdn.discordapp.com/attachments/1028380505923670096/1052405193783914506/image.png" >
     <img src="https://cdn.discordapp.com/attachments/1028380505923670096/1052405193783914506/image.png">
   </a>
 
-### EditNickname
+### Nickname
   - ✎ Change member's nickname
   `Admin Use Only`
   ```bash
-  /editnickname {@member} {nickname}
+  /nickname {@member} {nickname}
   ```
 
 
@@ -137,14 +140,43 @@ The official bot for [Prime Affliction](https://www.discord.gg/primeaffliction) 
   ```bash
   /say {message}[Alternate]
   ```
-
-
-### Ping
+  
+  
+### Timestamp
+  - 🕒 Formats and shows all the TimeStamp styles with side-by-side copy&paste and result
+  `Member+ Use Only`
+  ```bash
+  /timestamp {date}{time}
+  ```
+  
+  <a href="https://cdn.discordapp.com/attachments/1028380505923670096/1064101582066700288/image.png">
+    <img src="https://cdn.discordapp.com/attachments/1028380505923670096/1064101582066700288/image.png">
+  </a>
+  
+  
+  ### roll
+  - 🎲 Roll a die that has a range of 1 and [sides]
+  `Friends+`
+  ```bash
+  /role {sides}
+  ```
+  
+  
+  ### coinflip
+  - 🟡 Flip a coin (Heads, Tails)
+  `Friends+`
+  ```bash
+  /coinflip
+  ```
+  
+  
+  ### Ping
   - ❗️ Pongs back (with visible latency) to verify bot is working
   `Officers+ Use Only`
   ```bash
   /ping
   ```
+
 
 ---
 ### Work in Progress
@@ -169,18 +201,12 @@ The official bot for [Prime Affliction](https://www.discord.gg/primeaffliction) 
   
     ‣ A display embed will be shown, updates as members join/leave
     
-  - LiveTimeStamp Generator
-  
-    〰️ Description 〰️
-    
-    ‣ Given a date and time, bot will display ALL the usable LIVE timestamp styles with the Copy&Paste text available for use within Discord
-    
     
 ---
 ### Author
 
-  <a href="https://cdn.discordapp.com/attachments/394775062034644996/1046103481947279401/Blue_Eyes.png" >
-    <img src="https://cdn.discordapp.com/attachments/394775062034644996/1046103481947279401/Blue_Eyes.png" width="200" height="200">
+  <a href="https://cdn.discordapp.com/attachments/1028380505923670096/1064095140999856168/BlueEyes.png" >
+    <img src="https://cdn.discordapp.com/attachments/1028380505923670096/1064095140999856168/BlueEyes.png" width="200" height="200">
   </a>
 
 ㅤㅤㅤㅤㅤ[**Volak**](https://github.com/Volak)
@@ -188,6 +214,6 @@ The official bot for [Prime Affliction](https://www.discord.gg/primeaffliction) 
 ---
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Volak/PrimeAfflictionDiscordBot/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Volak/PrimeAfflictionBot/blob/main/LICENSE) file for details.
 
 
