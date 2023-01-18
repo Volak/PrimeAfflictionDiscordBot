@@ -200,7 +200,11 @@ The official bot for [Prime Affliction](https://www.discord.gg/primeaffliction) 
     ‣ Start a party that will @mention the people you want for the activity
   
     ‣ A display embed will be shown, updates as members join/leave
+  - Help Panel
+  
+    〰️ Description 〰️
     
+    ‣ A clean panel describing each command and their use
     
 ---
 ### Author
