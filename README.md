@@ -30,9 +30,9 @@ The official bot for [Prime Affliction](https://www.discord.gg/primeaffliction) 
 * [Recruit](#recruit)
 
 <sub> 〰️ Miscellaneous 〰️ </sub>
-* [Serverinfo](#serverinfo)
-* [Checkup](#checkup)
-* [Editnickname](#editnickname)
+* [Server Info](#serverinfo)
+* [Whois](#whois)
+* [Nickname](#nickname)
 * [Purge](#purge)
 * [Say](#say)
 * [TimeStamp Generator](#timestamp)
