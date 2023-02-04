@@ -135,7 +135,7 @@ The official bot for [Prime Affliction](https://www.discord.gg/primeaffliction) 
   
   
 ### Say
-  - ❗️ Get the bot to say anything on your behave.
+  - ❗️ Get the bot to say anything on your behalf.
   `Admin Use Only`
   ```bash
   /say {message}[Alternate]
