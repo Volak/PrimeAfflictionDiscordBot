@@ -3,7 +3,6 @@
 The official bot for [Prime Affliction](https://www.discord.gg/primeaffliction) discord server.
 
 -----
-
   <a href="https://cdn.discordapp.com/attachments/1028380505923670096/1045961502135439400/WebsiteBannerMini.png" >
     <img src="https://cdn.discordapp.com/attachments/1028380505923670096/1045961502135439400/WebsiteBannerMini.png">
   </a>
