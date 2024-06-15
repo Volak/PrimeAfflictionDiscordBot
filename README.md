@@ -89,8 +89,8 @@ The official bot for [Prime Affliction](https://www.discord.gg/primeaffliction) 
   /recruit {@member}
   ```
 
-  <a href="https://cdn.discordapp.com/attachments/1028380505923670096/1061621583879352420/image.png?ex=661290a5&is=66001ba5&hm=df7ec8145e7b73c51a3456800c25a875961a04f787b698aa22531be98b982efd&" >
-    <img src="https://cdn.discordapp.com/attachments/1028380505923670096/1061621583879352420/image.png?ex=661290a5&is=66001ba5&hm=df7ec8145e7b73c51a3456800c25a875961a04f787b698aa22531be98b982efd&">
+  <a href="ignore/RecruitEmbed.png" >
+    <img src="ignore/RecruitEmbed.png">
   </a>
 
 
@@ -101,8 +101,8 @@ The official bot for [Prime Affliction](https://www.discord.gg/primeaffliction) 
   /serverinfo
   ```
   
-  <a href="https://cdn.discordapp.com/attachments/1028380505923670096/1052404923733651536/image.png?ex=6615f2f6&is=66037df6&hm=4d667172d453b805e76f5c450adddf63efe29fc2e40af51cda9738b0162c4fed&" >
-    <img src="https://cdn.discordapp.com/attachments/1028380505923670096/1052404923733651536/image.png?ex=6615f2f6&is=66037df6&hm=4d667172d453b805e76f5c450adddf63efe29fc2e40af51cda9738b0162c4fed&">
+  <a href="ignore/ServerInfoEmbed.png" >
+    <img src="ignore/ServerInfoEmbed.png">
   </a>
 
 ### Whois
@@ -112,8 +112,8 @@ The official bot for [Prime Affliction](https://www.discord.gg/primeaffliction) 
   /whois {@member}
   ```
    
-  <a href="https://cdn.discordapp.com/attachments/1028380505923670096/1052405193783914506/image.png?ex=6615f336&is=66037e36&hm=80ac6d0618bccd276a3a3e3e24d8694762e80bef86b0cb25997d373b5cfd2ddb&" >
-    <img src="https://cdn.discordapp.com/attachments/1028380505923670096/1052405193783914506/image.png?ex=6615f336&is=66037e36&hm=80ac6d0618bccd276a3a3e3e24d8694762e80bef86b0cb25997d373b5cfd2ddb&">
+  <a href="ignore/UserInfoEmbed.png" >
+    <img src="ignore/UserInfoEmbed.png">
   </a>
 
 ### Nickname
@@ -148,8 +148,8 @@ The official bot for [Prime Affliction](https://www.discord.gg/primeaffliction) 
   /timestamp {date}{time}
   ```
   
-  <a href="https://cdn.discordapp.com/attachments/1028380505923670096/1064101582066700288/image.png?ex=66125bd3&is=65ffe6d3&hm=38edc9b641c4d4775d688dffe06045f7bb8ba4ff86c7c5c795d1fec36147899f&">
-    <img src="https://cdn.discordapp.com/attachments/1028380505923670096/1064101582066700288/image.png?ex=66125bd3&is=65ffe6d3&hm=38edc9b641c4d4775d688dffe06045f7bb8ba4ff86c7c5c795d1fec36147899f&">
+  <a href="ignore/TimeStampEmbed.png">
+    <img src="ignore/TimeStampEmbed.png">
   </a>
   
   
@@ -208,8 +208,8 @@ The official bot for [Prime Affliction](https://www.discord.gg/primeaffliction) 
 ---
 ### Author
 
-  <a href="[https://drive.google.com/file/d/17fZ0-SbQLVUduRW8VGmN2VKvTgfVdnxA/view?usp=drive_link](https://drive.google.com/file/d/17fZ0-SbQLVUduRW8VGmN2VKvTgfVdnxA/view?usp=drive_link)" >
-    <img src="[https://drive.google.com/file/d/17fZ0-SbQLVUduRW8VGmN2VKvTgfVdnxA/view?usp=drive_link](https://drive.google.com/file/d/17fZ0-SbQLVUduRW8VGmN2VKvTgfVdnxA/view?usp=drive_link)" width="200" height="200">
+  <a href="ignore/VolakPFP.png" >
+    <img src="ignore/VolakPFP.png" width="200" height="200">
   </a>
 
 ㅤㅤㅤㅤㅤ[**Volak**](https://github.com/Volak)
