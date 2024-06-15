@@ -3,8 +3,8 @@
 The official bot for [Prime Affliction](https://www.discord.gg/primeaffliction) discord server.
 
 -----
-  <a href="https://cdn.discordapp.com/attachments/1028380505923670096/1045961502135439400/WebsiteBannerMini.png?ex=6610f70f&is=65fe820f&hm=f12f88d36bf119f4fddc0c39a813b16f70cc2399af6e1d337be120b34321c221&" >
-    <img src="https://cdn.discordapp.com/attachments/1028380505923670096/1045961502135439400/WebsiteBannerMini.png?ex=6610f70f&is=65fe820f&hm=f12f88d36bf119f4fddc0c39a813b16f70cc2399af6e1d337be120b34321c221&">
+  <a href="ignore/PrimeBanner.png" >
+    <img src="ignore/PrimeBanner.png">
   </a>
 
 -----
