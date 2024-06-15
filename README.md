@@ -208,8 +208,8 @@ The official bot for [Prime Affliction](https://www.discord.gg/primeaffliction) 
 ---
 ### Author
 
-  <a href="https://cdn.discordapp.com/attachments/1028380505923670096/1064095140999856168/BlueEyes.png?ex=661255d3&is=65ffe0d3&hm=85e758da9eb68ce199a96d7fdfed20601b64a36a838067c1bdbe635e8e0e6ae5&" >
-    <img src="https://cdn.discordapp.com/attachments/1028380505923670096/1064095140999856168/BlueEyes.png?ex=661255d3&is=65ffe0d3&hm=85e758da9eb68ce199a96d7fdfed20601b64a36a838067c1bdbe635e8e0e6ae5&" width="200" height="200">
+  <a href="https://drive.google.com/file/d/17fZ0-SbQLVUduRW8VGmN2VKvTgfVdnxA/view?usp=drive_link" >
+    <img src="https://drive.google.com/file/d/17fZ0-SbQLVUduRW8VGmN2VKvTgfVdnxA/view?usp=drive_link" width="200" height="200">
   </a>
 
 ㅤㅤㅤㅤㅤ[**Volak**](https://github.com/Volak)
