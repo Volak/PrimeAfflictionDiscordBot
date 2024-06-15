@@ -175,36 +175,6 @@ The official bot for [Prime Affliction](https://www.discord.gg/primeaffliction) 
   ```bash
   /ping
   ```
-
-
----
-### Work in Progress
-
-  - Purge Specification
-  
-    〰️ Optional Specifications 〰️
-    
-    ‣ Messages coming from specific member
-    
-    ‣ Messages containing certain word
-    
-    ‣ Messages containing certain member mention
-    
-    ‣ Messages containing certain role mention
-  
-  - PartyStart
-  
-    〰️ Description 〰️
-    
-    ‣ Start a party that will @mention the people you want for the activity
-  
-    ‣ A display embed will be shown, updates as members join/leave
-  - Help Panel
-  
-    〰️ Description 〰️
-    
-    ‣ A clean panel describing each command and their use
-    
 ---
 ### Author
 
