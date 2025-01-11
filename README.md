@@ -11,7 +11,6 @@ The official bot for [Prime Affliction](https://www.discord.gg/primeaffliction) 
 ### Table of Content
 
 * [Command List](#command-list)
-* [Work in Progress (WIP)](#work-in-progress)
 * [Author](#author)
 * [License](#license)
 
